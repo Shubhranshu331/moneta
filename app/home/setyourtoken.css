@@ -1,0 +1,52 @@
+.logo {
+
+    position: absolute;
+    width: 157px;
+    height: 52px;
+    left: 353px;
+    top: 46px;
+  
+  }
+  
+  .createTop{
+  
+  position: absolute;
+  width: 116.01px;
+  height: 24.63px;
+  left: 852px;
+  top: 58px;
+  
+  position: absolute;
+  left: 60.25%;
+  right: 33.11%;
+  top: 3.88%;
+  bottom: 94.47%;
+  
+  background: #FFFFFF;
+  border-radius: 26.7757px;
+  
+  position: absolute;
+  width: 116.01px;
+  height: 17px;
+  left: 852px;
+  top: 58.22px;
+  
+  font-family: 'Saira';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21.4206px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: #000000;
+  
+  }
+
+
+
+
+
+
+  
